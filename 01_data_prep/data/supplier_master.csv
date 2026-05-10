@@ -1,0 +1,11 @@
+supplier_id,supplier_name,lead_time_days,moq,contact_email,payment_terms,active
+SUP-001,Castrol India,3,12,orders@castrol-india.com,Net45,True
+SUP-002,Honda OEM Supplies,10,25,orders@honda-oem-supplies.com,Net30,True
+SUP-003,Maruti Suzuki OEM,7,20,orders@maruti-suzuki-oem.com,Net45,True
+SUP-004,Hyundai OEM,8,22,orders@hyundai-oem.com,Net30,True
+SUP-005,MRF Tyres,14,30,orders@mrf-tyres.com,Net30,True
+SUP-006,Amaron Batteries,3,10,orders@amaron-batteries.com,Advance,True
+SUP-007,NGK Spark Plugs,6,15,orders@ngk-spark-plugs.com,Net30,True
+SUP-008,Bosch India,5,18,orders@bosch-india.com,Net30,True
+SUP-009,Toyota OEM,10,25,orders@toyota-oem.com,Net45,True
+SUP-010,Universal Auto,4,8,orders@universal-auto.com,Advance,True
